@@ -37,9 +37,7 @@
 ---
 
 ### 📊 Estatísticas GitHub:
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AnthonySantoss&locale=pt_BR" alt="GitHub Streak" /></a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=AnthonySantoss&locale=pt_BR)](https://git.io/streak-stats)
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=AnthonySantoss&theme=dracula&column=3&row=2&margin-w=15&margin-h=15" alt="GitHub Trophies" />
