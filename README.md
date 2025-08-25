@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F779&background=0D1117&lines=Olá,+seja+bem-vindo(a)!;Desenvolvedor+em+construção...;Apaixonado+por+tecnologia." alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Bem-vindo+ao+meu+perfil!;Foco+em+back-end;Buscando+est%C3%A1gios" alt="Typing SVG" /></a>
 </p>
 
 <h1 align="center">Anthony Santos</h1>
@@ -8,13 +8,12 @@
 ---
 
 ### 🚀 Sobre Mim:
-- 👨‍💻 Atualmente focado em aprimorar minhas habilidades em **JavaScript**, **React** e explorando o mundo do **Backend com Node.js**.
-- 🌱 Em constante aprendizado sobre **Arquitetura de Microsserviços** e **DevOps**.
-- 💡 Entusiasmado em colaborar com projetos **open source** que buscam impacto e inovação.
+- 👨‍💻 Atualmente focado em aprimorar minhas habilidades em **Java**, **Angula**, **spring boot** e explorando o mundo do **Backend com Node.js**.
+- 🌱 Em constante aprendizado sobre **Back-end**.
 - 🤔 Buscando desafios que me permitam crescer e aplicar meus conhecimentos na prática.
 - 💬 Sinta-se à vontade para me perguntar sobre **desenvolvimento web**, **automação de tarefas** e as últimas novidades em tecnologia.
-- 📫 Você pode me encontrar em: **anthony.santoss.as@gmail.com**
-- 🌐 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/anthony-santos-dev/)
+- 📫 Você pode me encontrar em: **anthonysantossas@gmail.com**
+- 🌐 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/anthony-santos12/)
 - ⚡ Curiosidade: Nas horas vagas, adoro explorar novas ferramentas de desenvolvimento e experimentar com inteligência artificial.
 
 ---
@@ -22,27 +21,23 @@
 ### 🛠️ Minhas Ferramentas:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,styledcomponents" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css" />
   </a>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,git,github,docker,vscode" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,npm,python,java,git,github,docker,vscode,angular" />
   </a>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
   </a>
 </p>
 
 ---
 
 ### 📊 Estatísticas GitHub:
-[![GitHub Streak](https://streak-stats.demolab.com?user=AnthonySantoss&locale=pt_BR)](https://git.io/streak-stats)
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AnthonySantoss&theme=dracula&column=3&row=2&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
+[![GitHub Streak](https://streak-stats-xi.vercel.app?user=AnthonySantoss&theme=dark)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnthonySantoss&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -94,7 +89,7 @@
   <a href="mailto:anthony.santoss.as@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/anthony-santos-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/anthony-santos12/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/AnthonySantoss" target="_blank">
